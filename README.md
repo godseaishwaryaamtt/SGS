@@ -3,7 +3,6 @@
 
 ## **Project Overview**
 
-This repository contains three interconnected experiments demonstrating critical smart grid technologies for India's energy transition. Each experiment addresses fundamental challenges in grid modernization, consumer privacy, and environmental sustainability.
 
 ### **Experiments Summary**
 1. **Dynamic Tariff Explorer** - Demand response and behavioral economics
